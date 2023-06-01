@@ -143,8 +143,9 @@ jupyter notebook
 
 | Dataset               | Link                                                 |
 | ----------------- | ---------------------------------------------------------------- |
-| | |
-| | |
+| Depression and Anxiety in Twitter| https://www.kaggle.com/datasets/stevenhans/depression-and-anxiety-in-twitter-id?select=datd_rand.csv|
+| Email Spam Classification | https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv|
+| Twitter Sentiment Analysis |https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis |
 
 ## Variáveis de Ambiente
 
